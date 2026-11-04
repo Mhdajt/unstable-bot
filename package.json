@@ -1,0 +1,23 @@
+{
+  "name": "unstable-bot",
+  "version": "1.0.0",
+  "description": "Unstable Bot - Discord bot for Unstable SMP / Unstable Universe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "unstable-smp",
+    "unstable-universe",
+    "minecraft"
+  ],
+  "author": "Unstable Bot",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
